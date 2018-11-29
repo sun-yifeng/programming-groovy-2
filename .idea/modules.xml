@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/for-coder/for-coder.iml" filepath="$PROJECT_DIR$/for-coder/for-coder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-for-coder/ch02-for-coder.iml" filepath="$PROJECT_DIR$/ch02-for-coder/ch02-for-coder.iml" />
       <module fileurl="file://$PROJECT_DIR$/programming-groovy-2.iml" filepath="$PROJECT_DIR$/programming-groovy-2.iml" />
     </modules>
   </component>
