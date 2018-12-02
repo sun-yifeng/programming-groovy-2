@@ -11,7 +11,7 @@ frame = new JFrame(
 // 按钮
 button = new JButton("click")
 positionLabel = new JLabel("label")
-msgLabel = new JLabel("msg")
+msgLabel = new JLabel("")
 
 // 嵌板
 frame.contentPane.add button
