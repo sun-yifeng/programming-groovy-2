@@ -3,7 +3,7 @@ class Robot {
     def type, height, width
 
     // 不管调用1、2、3的顺序怎么变，结果一样
-    def access(location, height, fragile) {
+    def access(Map location, height, fragile) {
         println "Received fragile ? $fragile, weight: $height, loc: $location"
     }
 
