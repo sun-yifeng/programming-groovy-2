@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ch02-for-coder/ch02-for-coder.iml" filepath="$PROJECT_DIR$/ch02-for-coder/ch02-for-coder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-dynamic-type/ch03-dynamic-type.iml" filepath="$PROJECT_DIR$/ch03-dynamic-type/ch03-dynamic-type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-closure/ch04-closure.iml" filepath="$PROJECT_DIR$/ch04-closure/ch04-closure.iml" />
       <module fileurl="file://$PROJECT_DIR$/programming-groovy-2.iml" filepath="$PROJECT_DIR$/programming-groovy-2.iml" />
     </modules>
   </component>

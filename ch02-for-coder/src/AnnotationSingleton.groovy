@@ -1,4 +1,4 @@
-@Singleton(lazy = true)
+@Singleton(lazy = true, strict = false)
 class TheUnique {
     private TheUnique() {
         println "Instance created"
@@ -8,3 +8,7 @@ class TheUnique {
         println "hello"
     }
 }
+
+println "Accessing TheUnique"
+TheUnique.instance.hello()
+TheUnique.instance.hello()
