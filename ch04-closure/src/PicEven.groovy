@@ -5,19 +5,21 @@ def picEven(n, block) {
 }
 
 // 闭包的三种写法
-//picEven(10, {println it})
-//picEven(10){println it}
-//picEven(10){evenNumber -> println evenNumber}
+picEven(10, {println it})
+println "-----------------------------------------"
+picEven(10){println it}
+println "-----------------------------------------"
+picEven(10){evenNumber -> println evenNumber}
 
 // 求和
-//total = 0
+//total = 0vr
 //picEven(10) { total += it }
 //println total
 
 // 乘积
-product = 1t
-picEven(10) { product *= it }
-println product
+//product = 1t
+//picEven(10) { product *= it }
+//println product
 
 
 
